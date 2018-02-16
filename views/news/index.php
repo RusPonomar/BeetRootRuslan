@@ -44,14 +44,8 @@
             <div class="modal-body">
                 <form id="create" method="post">
                     <div class="form-group">
-                        <label for="name">Your name</label>
-                        <input type="name" name="name" class="form-control"/>
-                        <div class="form-group">
-                            <label for="text">publication</label>
-                            <input type="text" name="publication" class="form-control"/>
-                            </div
-                                <button type="submit" class="btn btn-primary">
-                            <div>
+                         <button type="submit" class="btn btn-primary">
+                    <div>
                 <!-- end #sidebar -->
                 <div style="clear: both;">&nbsp;</div>
             </div>
